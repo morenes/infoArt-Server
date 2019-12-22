@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Clusters xmlns="http://www.um.es/as" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="clusterRes.xsd">
+    <place>3</place>
+    <pila_debil>3</pila_debil>
+    <cluster id="0">
+        <var id="0">87.53852601810696</var>
+        <var id="1">56.21786963067877</var>
+        <var id="2">147.27545250290672</var>
+        <var id="3">57.69190522395737</var>
+        <var id="4">262.70704798493995</var>
+        <var id="5">58.97113730999493</var>
+        <var id="6">261.98108973272895</var>
+        <var id="7">82.25127031015481</var>
+        <var id="8">265.1081362748779</var>
+        <var id="9">122.42021350744886</var>
+        <var id="10">338.2503379536882</var>
+        <var id="11">117.05152109812776</var>
+        <var id="12">381.44383439994186</var>
+        <var id="13">74.23934229433662</var>
+        <var id="14">422.53319988197075</var>
+        <var id="15">64.490052069434</var>
+        <var id="16">447.8462641662468</var>
+        <var id="17">139.8817377259105</var>
+        <var id="18">437.33080234731256</var>
+        <var id="19">153.64665399041772</var>
+        <var id="20">5.025847242029106</var>
+        <var id="21">15.477069373984767</var>
+        <var id="22">25.72525213953715</var>
+        <var id="23">36.174450229830995</var>
+        <var id="24">46.43006693737142</var>
+        <var id="25">56.488383126875064</var>
+        <var id="26">66.74345686177661</var>
+        <var id="27">77.19101054552206</var>
+        <var id="28">87.63666604744722</var>
+        <var id="29">97.89696652793927</var>
+        <var id="30">0.08144589583416191</var>
+        <var id="31">0.08144589583416191</var>
+        <var id="32">0.08144589583416191</var>
+        <var id="33">0.08144589583416191</var>
+        <var id="34">0.08144589583416191</var>
+        <var id="35">0.08144589583416191</var>
+        <var id="36">0.08144589583416191</var>
+        <var id="37">0.08144589583416191</var>
+        <var id="38">0.08144589583416191</var>
+        <var id="39">0.08144589583416191</var>
+    </cluster>
+    <cluster id="1">
+        <var id="0">246.3230390258382</var>
+        <var id="1">86.3943230666509</var>
+        <var id="2">357.214029618882</var>
+        <var id="3">57.821098792280615</var>
+        <var id="4">368.73959883157613</var>
+        <var id="5">71.33728786862224</var>
+        <var id="6">350.5590920389306</var>
+        <var id="7">66.13442250217544</var>
+        <var id="8">362.4918350046614</var>
+        <var id="9">79.62021465384923</var>
+        <var id="10">375.2931043139572</var>
+        <var id="11">91.80714417999043</var>
+        <var id="12">388.7431368337566</var>
+        <var id="13">63.0288049109993</var>
+        <var id="14">415.794749856292</var>
+        <var id="15">69.39373044160605</var>
+        <var id="16">458.88308520532667</var>
+        <var id="17">103.47858684468173</var>
+        <var id="18">442.25273155049</var>
+        <var id="19">147.94259172142173</var>
+        <var id="20">4.8040771452071285</var>
+        <var id="21">15.211188350416561</var>
+        <var id="22">25.218524991039097</var>
+        <var id="23">35.2263159664176</var>
+        <var id="24">45.433753628225816</var>
+        <var id="25">55.640868297365046</var>
+        <var id="26">65.64889470962211</var>
+        <var id="27">75.65671922862124</var>
+        <var id="28">85.6645806060573</var>
+        <var id="29">96.07175928883183</var>
+        <var id="30">29.91168743267175</var>
+        <var id="31">29.91168743267175</var>
+        <var id="32">29.91168743267175</var>
+        <var id="33">29.91168743267175</var>
+        <var id="34">29.91168743267175</var>
+        <var id="35">29.91168743267175</var>
+        <var id="36">29.91168743267175</var>
+        <var id="37">29.91168743267175</var>
+        <var id="38">29.91168743267175</var>
+        <var id="39">29.91168743267175</var>
+    </cluster>
+    <cluster id="2">
+        <var id="0">56.08027025200145</var>
+        <var id="1">55.66896477726554</var>
+        <var id="2">150.7512371457184</var>
+        <var id="3">55.428740450753594</var>
+        <var id="4">262.41365493209713</var>
+        <var id="5">79.6604440756028</var>
+        <var id="6">396.87217667662986</var>
+        <var id="7">71.74731931635056</var>
+        <var id="8">478.7412383746605</var>
+        <var id="9">91.30483440386725</var>
+        <var id="10">456.89979014280743</var>
+        <var id="11">139.03426526595229</var>
+        <var id="12">385.03483362884987</var>
+        <var id="13">122.09525014870735</var>
+        <var id="14">282.98961481454165</var>
+        <var id="15">86.57057402679936</var>
+        <var id="16">297.706199228393</var>
+        <var id="17">79.12707310618968</var>
+        <var id="18">431.83954623610623</var>
+        <var id="19">69.75209217554065</var>
+        <var id="20">5.201811978808816</var>
+        <var id="21">16.205185032769513</var>
+        <var id="22">26.808810538796536</var>
+        <var id="23">37.41294163843519</var>
+        <var id="24">48.41583832123249</var>
+        <var id="25">59.219212064672185</var>
+        <var id="26">70.22185405751479</var>
+        <var id="27">81.02516100697709</var>
+        <var id="28">91.82843718558176</var>
+        <var id="29">102.83190556648908</var>
+        <var id="30">0.03820349320401153</var>
+        <var id="31">0.03820349320401153</var>
+        <var id="32">0.03820349320401153</var>
+        <var id="33">0.03820349320401153</var>
+        <var id="34">0.03820349320401153</var>
+        <var id="35">0.03820349320401153</var>
+        <var id="36">0.03820349320401153</var>
+        <var id="37">0.03820349320401153</var>
+        <var id="38">0.03820349320401153</var>
+        <var id="39">0.03820349320401153</var>
+    </cluster>
+    <cluster id="3">
+        <var id="0">57.04895556757798</var>
+        <var id="1">55.25750212283516</var>
+        <var id="2">121.68237571606959</var>
+        <var id="3">56.95577260296448</var>
+        <var id="4">209.82488234479658</var>
+        <var id="5">56.39267032066904</var>
+        <var id="6">269.47969018302547</var>
+        <var id="7">75.16572395561371</var>
+        <var id="8">268.8372135039234</var>
+        <var id="9">121.16863812760764</var>
+        <var id="10">315.74015318426194</var>
+        <var id="11">139.6026434667133</var>
+        <var id="12">365.75292188962095</var>
+        <var id="13">107.93044406237439</var>
+        <var id="14">400.3164497432301</var>
+        <var id="15">67.9916282570737</var>
+        <var id="16">466.78632919369153</var>
+        <var id="17">72.99721343761254</var>
+        <var id="18">467.59473686966857</var>
+        <var id="19">128.95501259059597</var>
+        <var id="20">2.4666659782524105</var>
+        <var id="21">7.604979051238639</var>
+        <var id="22">12.542182992421303</var>
+        <var id="23">17.87466890248621</var>
+        <var id="24">23.205056115763025</var>
+        <var id="25">28.140869421238627</var>
+        <var id="26">33.470993549151785</var>
+        <var id="27">38.803289433975976</var>
+        <var id="28">43.7443572249495</var>
+        <var id="29">49.07604359527058</var>
+        <var id="30">0.0394628045479488</var>
+        <var id="31">0.0394628045479488</var>
+        <var id="32">0.0394628045479488</var>
+        <var id="33">0.0394628045479488</var>
+        <var id="34">0.0394628045479488</var>
+        <var id="35">0.0394628045479488</var>
+        <var id="36">0.0394628045479488</var>
+        <var id="37">0.0394628045479488</var>
+        <var id="38">0.0394628045479488</var>
+        <var id="39">0.0394628045479488</var>
+    </cluster>
+    <member id="512">
+        <cluster id="0">0.10715345309042142</cluster>
+        <cluster id="1">0.03816511677026462</cluster>
+        <cluster id="2">0.04227694644442045</cluster>
+        <cluster id="3">0.8124044836948936</cluster>
+    </member>
+    <member id="513">
+        <cluster id="0">0.19861376829565666</cluster>
+        <cluster id="1">0.06389995255705438</cluster>
+        <cluster id="2">0.0684139901346761</cluster>
+        <cluster id="3">0.6690722890126128</cluster>
+    </member>
+    <member id="514">
+        <cluster id="0">0.11071355373793447</cluster>
+        <cluster id="1">0.039182826679493375</cluster>
+        <cluster id="2">0.0415590590464862</cluster>
+        <cluster id="3">0.8085445605360859</cluster>
+    </member>
+    <member id="515">
+        <cluster id="0">0.0518822850382969</cluster>
+        <cluster id="1">0.8658848102928483</cluster>
+        <cluster id="2">0.03973827551049287</cluster>
+        <cluster id="3">0.04249462915836212</cluster>
+    </member>
+    <member id="400">
+        <cluster id="0">0.05242062958503284</cluster>
+        <cluster id="1">0.862048568966565</cluster>
+        <cluster id="2">0.04189419517396212</cluster>
+        <cluster id="3">0.04363660627444003</cluster>
+    </member>
+    <member id="401">
+        <cluster id="0">0.1665270181058784</cluster>
+        <cluster id="1">0.565926704514876</cluster>
+        <cluster id="2">0.13284624260339614</cluster>
+        <cluster id="3">0.13470003477584944</cluster>
+    </member>
+    <member id="402">
+        <cluster id="0">0.05239074672117814</cluster>
+        <cluster id="1">0.8636082613501789</cluster>
+        <cluster id="2">0.040913124260275005</cluster>
+        <cluster id="3">0.04308786766836803</cluster>
+    </member>
+    <member id="403">
+        <cluster id="0">0.051598604993993706</cluster>
+        <cluster id="1">0.8658568023759711</cluster>
+        <cluster id="2">0.040008958730810756</cluster>
+        <cluster id="3">0.0425356338992244</cluster>
+    </member>
+    <member id="404">
+        <cluster id="0">0.07207383624343709</cluster>
+        <cluster id="1">0.811817827056069</cluster>
+        <cluster id="2">0.05684861007383268</cluster>
+        <cluster id="3">0.059259726626661256</cluster>
+    </member>
+    <member id="405">
+        <cluster id="0">0.046223116916797875</cluster>
+        <cluster id="1">0.879392618601303</cluster>
+        <cluster id="2">0.03637343212433358</cluster>
+        <cluster id="3">0.03801083235756544</cluster>
+    </member>
+    <member id="406">
+        <cluster id="0">0.03972788830490036</cluster>
+        <cluster id="1">0.8964239490425415</cluster>
+        <cluster id="2">0.03105256834428789</cluster>
+        <cluster id="3">0.0327955943082702</cluster>
+    </member>
+    <member id="407">
+        <cluster id="0">0.04872392639149603</cluster>
+        <cluster id="1">0.8740858006171958</cluster>
+        <cluster id="2">0.0372276909209163</cluster>
+        <cluster id="3">0.03996258207039185</cluster>
+    </member>
+    <member id="408">
+        <cluster id="0">0.04162068255568659</cluster>
+        <cluster id="1">0.8909435866764599</cluster>
+        <cluster id="2">0.03305150428060568</cluster>
+        <cluster id="3">0.034384226487247864</cluster>
+    </member>
+    <member id="409">
+        <cluster id="0">0.041613473897676605</cluster>
+        <cluster id="1">0.8922955314579931</cluster>
+        <cluster id="2">0.03213608474614963</cluster>
+        <cluster id="3">0.03395490989818065</cluster>
+    </member>
+    <member id="410">
+        <cluster id="0">0.04868545595084714</cluster>
+        <cluster id="1">0.8749187174968882</cluster>
+        <cluster id="2">0.03676368111809852</cluster>
+        <cluster id="3">0.039632145434166176</cluster>
+    </member>
+    <member id="411">
+        <cluster id="0">0.05534575017260845</cluster>
+        <cluster id="1">0.8547492487637192</cluster>
+        <cluster id="2">0.04426034049365007</cluster>
+        <cluster id="3">0.04564466057002231</cluster>
+    </member>
+    <member id="412">
+        <cluster id="0">0.1827517889672051</cluster>
+        <cluster id="1">0.5145192198718898</cluster>
+        <cluster id="2">0.15159448347364185</cluster>
+        <cluster id="3">0.15113450768726333</cluster>
+    </member>
+    <member id="413">
+        <cluster id="0">0.08441439991601471</cluster>
+        <cluster id="1">0.7843159800391766</cluster>
+        <cluster id="2">0.06222057365371136</cluster>
+        <cluster id="3">0.06904904639109744</cluster>
+    </member>
+    <member id="414">
+        <cluster id="0">0.045639914178061784</cluster>
+        <cluster id="1">0.8815572908034162</cluster>
+        <cluster id="2">0.03547132812923928</cluster>
+        <cluster id="3">0.0373314668892827</cluster>
+    </member>
+    <member id="415">
+        <cluster id="0">0.5451102056160161</cluster>
+        <cluster id="1">0.08544306219790823</cluster>
+        <cluster id="2">0.0831640537704739</cluster>
+        <cluster id="3">0.28628267841560173</cluster>
+    </member>
+    <member id="300">
+        <cluster id="0">0.7558551455539481</cluster>
+        <cluster id="1">0.058293241939958475</cluster>
+        <cluster id="2">0.05034502933793438</cluster>
+        <cluster id="3">0.13550658316815914</cluster>
+    </member>
+    <member id="301">
+        <cluster id="0">0.8093340663665972</cluster>
+        <cluster id="1">0.045019865411320914</cluster>
+        <cluster id="2">0.04055010089476384</cluster>
+        <cluster id="3">0.10509596732731807</cluster>
+    </member>
+    <member id="302">
+        <cluster id="0">0.6888583332214455</cluster>
+        <cluster id="1">0.07251151706239431</cluster>
+        <cluster id="2">0.06762996229243343</cluster>
+        <cluster id="3">0.1710001874237267</cluster>
+    </member>
+    <member id="303">
+        <cluster id="0">0.8217867790193484</cluster>
+        <cluster id="1">0.04229539633799238</cluster>
+        <cluster id="2">0.038662052998447355</cluster>
+        <cluster id="3">0.09725577164421201</cluster>
+    </member>
+    <member id="304">
+        <cluster id="0">0.7823378894458983</cluster>
+        <cluster id="1">0.05259029537780043</cluster>
+        <cluster id="2">0.04535523699525117</cluster>
+        <cluster id="3">0.11971657818105008</cluster>
+    </member>
+    <member id="49">
+        <cluster id="0">0.8054156144326833</cluster>
+        <cluster id="1">0.04538230843701529</cluster>
+        <cluster id="2">0.04224240265117139</cluster>
+        <cluster id="3">0.10695967447913003</cluster>
+    </member>
+    <member id="305">
+        <cluster id="0">0.3931383300663352</cluster>
+        <cluster id="1">0.1831881606029339</cluster>
+        <cluster id="2">0.16734529387743416</cluster>
+        <cluster id="3">0.25632821545329676</cluster>
+    </member>
+    <member id="306">
+        <cluster id="0">0.7650689715418101</cluster>
+        <cluster id="1">0.053760466028645475</cluster>
+        <cluster id="2">0.04755060371423781</cluster>
+        <cluster id="3">0.13361995871530655</cluster>
+    </member>
+    <member id="51">
+        <cluster id="0">0.0525401717455999</cluster>
+        <cluster id="1">0.8630410535330579</cluster>
+        <cluster id="2">0.04114271554475734</cluster>
+        <cluster id="3">0.04327605917658493</cluster>
+    </member>
+    <member id="307">
+        <cluster id="0">0.690888178322385</cluster>
+        <cluster id="1">0.07083550767189355</cluster>
+        <cluster id="2">0.0678155452039912</cluster>
+        <cluster id="3">0.17046076880173022</cluster>
+    </member>
+    <member id="308">
+        <cluster id="0">0.8127401560430066</cluster>
+        <cluster id="1">0.04404410252925826</cluster>
+        <cluster id="2">0.03959505035849359</cluster>
+        <cluster id="3">0.10362069106924138</cluster>
+    </member>
+    <member id="53">
+        <cluster id="0">0.15111854704347155</cluster>
+        <cluster id="1">0.05433014674591456</cluster>
+        <cluster id="2">0.056314422027447825</cluster>
+        <cluster id="3">0.7382368841831661</cluster>
+    </member>
+    <member id="309">
+        <cluster id="0">0.5618250717563673</cluster>
+        <cluster id="1">0.0888958503325554</cluster>
+        <cluster id="2">0.0831603265296878</cluster>
+        <cluster id="3">0.26611875138138946</cluster>
+    </member>
+    <member id="54">
+        <cluster id="0">0.07458057965083896</cluster>
+        <cluster id="1">0.06166144449047009</cluster>
+        <cluster id="2">0.7908798889579415</cluster>
+        <cluster id="3">0.07287808690074944</cluster>
+    </member>
+    <member id="310">
+        <cluster id="0">0.6353748806036029</cluster>
+        <cluster id="1">0.0805348451401855</cluster>
+        <cluster id="2">0.07223707350072364</cluster>
+        <cluster id="3">0.211853200755488</cluster>
+    </member>
+    <member id="311">
+        <cluster id="0">0.6368423181745547</cluster>
+        <cluster id="1">0.08335440254749894</cluster>
+        <cluster id="2">0.0771953863542827</cluster>
+        <cluster id="3">0.2026078929236637</cluster>
+    </member>
+    <member id="312">
+        <cluster id="0">0.8198672610024841</cluster>
+        <cluster id="1">0.04251883078790861</cluster>
+        <cluster id="2">0.03909307745829859</cluster>
+        <cluster id="3">0.09852083075130874</cluster>
+    </member>
+    <member id="313">
+        <cluster id="0">0.7376051664748015</cluster>
+        <cluster id="1">0.06525916537393961</cluster>
+        <cluster id="2">0.0567119858684968</cluster>
+        <cluster id="3">0.14042368228276225</cluster>
+    </member>
+    <member id="314">
+        <cluster id="0">0.7387705805461829</cluster>
+        <cluster id="1">0.06182317619554156</cluster>
+        <cluster id="2">0.052521855109913015</cluster>
+        <cluster id="3">0.1468843881483623</cluster>
+    </member>
+    <member id="315">
+        <cluster id="0">0.6915906054356575</cluster>
+        <cluster id="1">0.07028720228993078</cluster>
+        <cluster id="2">0.06529506563988655</cluster>
+        <cluster id="3">0.17282712663452515</cluster>
+    </member>
+    <member id="600">
+        <cluster id="0">0.08075647276104718</cluster>
+        <cluster id="1">0.06898594419946348</cluster>
+        <cluster id="2">0.7733011727413084</cluster>
+        <cluster id="3">0.07695641029818098</cluster>
+    </member>
+    <member id="601">
+        <cluster id="0">0.0715158581802712</cluster>
+        <cluster id="1">0.06497960808828988</cluster>
+        <cluster id="2">0.793475626423507</cluster>
+        <cluster id="3">0.07002890730793197</cluster>
+    </member>
+    <member id="602">
+        <cluster id="0">0.0712384742710135</cluster>
+        <cluster id="1">0.06176131882590572</cluster>
+        <cluster id="2">0.7983207411161026</cluster>
+        <cluster id="3">0.06867946578697814</cluster>
+    </member>
+    <member id="603">
+        <cluster id="0">0.06545531153974304</cluster>
+        <cluster id="1">0.05600719908987899</cluster>
+        <cluster id="2">0.8156807102688386</cluster>
+        <cluster id="3">0.06285677910153939</cluster>
+    </member>
+    <member id="604">
+        <cluster id="0">0.07663435601314131</cluster>
+        <cluster id="1">0.06884317253058447</cluster>
+        <cluster id="2">0.7792493047557788</cluster>
+        <cluster id="3">0.07527316670049537</cluster>
+    </member>
+    <member id="605">
+        <cluster id="0">0.103970907926564</cluster>
+        <cluster id="1">0.08465695715931122</cluster>
+        <cluster id="2">0.7106363704574703</cluster>
+        <cluster id="3">0.10073576445665444</cluster>
+    </member>
+    <member id="606">
+        <cluster id="0">0.07001255031547494</cluster>
+        <cluster id="1">0.05936763616638783</cluster>
+        <cluster id="2">0.80330587579111</cluster>
+        <cluster id="3">0.06731393772702718</cluster>
+    </member>
+    <member id="607">
+        <cluster id="0">0.07955523476501859</cluster>
+        <cluster id="1">0.06677341790749769</cluster>
+        <cluster id="2">0.7760951520400938</cluster>
+        <cluster id="3">0.07757619528738997</cluster>
+    </member>
+    <member id="608">
+        <cluster id="0">0.06653341631533582</cluster>
+        <cluster id="1">0.05708568687176146</cluster>
+        <cluster id="2">0.8109868838055954</cluster>
+        <cluster id="3">0.06539401300730743</cluster>
+    </member>
+    <member id="609">
+        <cluster id="0">0.07958070854940683</cluster>
+        <cluster id="1">0.06715514474745454</cluster>
+        <cluster id="2">0.7749734223855242</cluster>
+        <cluster id="3">0.07829072431761433</cluster>
+    </member>
+    <member id="610">
+        <cluster id="0">0.091457714362923</cluster>
+        <cluster id="1">0.07872844124882727</cluster>
+        <cluster id="2">0.74169885351789</cluster>
+        <cluster id="3">0.08811499087035976</cluster>
+    </member>
+    <member id="611">
+        <cluster id="0">0.10262489745625421</cluster>
+        <cluster id="1">0.09427076614155211</cluster>
+        <cluster id="2">0.705478824582772</cluster>
+        <cluster id="3">0.09762551181942176</cluster>
+    </member>
+    <member id="612">
+        <cluster id="0">0.10253130526505735</cluster>
+        <cluster id="1">0.09525255136921854</cluster>
+        <cluster id="2">0.7030018575084779</cluster>
+        <cluster id="3">0.09921428585724616</cluster>
+    </member>
+    <member id="613">
+        <cluster id="0">0.07837314220898155</cluster>
+        <cluster id="1">0.06897849276499358</cluster>
+        <cluster id="2">0.7767117400050589</cluster>
+        <cluster id="3">0.07593662502096599</cluster>
+    </member>
+    <member id="614">
+        <cluster id="0">0.06447346797926307</cluster>
+        <cluster id="1">0.05531073651442151</cluster>
+        <cluster id="2">0.816080899287798</cluster>
+        <cluster id="3">0.06413489621851745</cluster>
+    </member>
+    <member id="615">
+        <cluster id="0">0.07666413296635977</cluster>
+        <cluster id="1">0.06285637255057845</cluster>
+        <cluster id="2">0.7851894336790699</cluster>
+        <cluster id="3">0.07529006080399192</cluster>
+    </member>
+    <member id="500">
+        <cluster id="0">0.1482247108509714</cluster>
+        <cluster id="1">0.05270938390044405</cluster>
+        <cluster id="2">0.05534611232525561</cluster>
+        <cluster id="3">0.743719792923329</cluster>
+    </member>
+    <member id="501">
+        <cluster id="0">0.13670664833876556</cluster>
+        <cluster id="1">0.049795935044135126</cluster>
+        <cluster id="2">0.05109976102837813</cluster>
+        <cluster id="3">0.7623976555887212</cluster>
+    </member>
+    <member id="502">
+        <cluster id="0">0.10105327621359758</cluster>
+        <cluster id="1">0.03401668871656438</cluster>
+        <cluster id="2">0.036733293614135853</cluster>
+        <cluster id="3">0.8281967414557023</cluster>
+    </member>
+    <member id="503">
+        <cluster id="0">0.07703849441988912</cluster>
+        <cluster id="1">0.026636907209901726</cluster>
+        <cluster id="2">0.02854662990213792</cluster>
+        <cluster id="3">0.8677779684680712</cluster>
+    </member>
+    <member id="504">
+        <cluster id="0">0.11693304339519363</cluster>
+        <cluster id="1">0.04005756757336147</cluster>
+        <cluster id="2">0.042086817902275114</cluster>
+        <cluster id="3">0.8009225711291698</cluster>
+    </member>
+    <member id="505">
+        <cluster id="0">0.16945799684851853</cluster>
+        <cluster id="1">0.05421113740497492</cluster>
+        <cluster id="2">0.05841168249814331</cluster>
+        <cluster id="3">0.7179191832483632</cluster>
+    </member>
+    <member id="506">
+        <cluster id="0">0.11934760409594344</cluster>
+        <cluster id="1">0.04317584855157116</cluster>
+        <cluster id="2">0.0469021953063985</cluster>
+        <cluster id="3">0.7905743520460868</cluster>
+    </member>
+    <member id="507">
+        <cluster id="0">0.113948854469041</cluster>
+        <cluster id="1">0.04080231727610864</cluster>
+        <cluster id="2">0.04232486623222973</cluster>
+        <cluster id="3">0.8029239620226206</cluster>
+    </member>
+    <member id="508">
+        <cluster id="0">0.12200226133035602</cluster>
+        <cluster id="1">0.04346470836986381</cluster>
+        <cluster id="2">0.04822419627075403</cluster>
+        <cluster id="3">0.7863088340290262</cluster>
+    </member>
+    <member id="509">
+        <cluster id="0">0.11497441791498397</cluster>
+        <cluster id="1">0.04004102002519767</cluster>
+        <cluster id="2">0.044583570864217006</cluster>
+        <cluster id="3">0.8004009911956014</cluster>
+    </member>
+    <member id="510">
+        <cluster id="0">0.10790400563379712</cluster>
+        <cluster id="1">0.03675582625464887</cluster>
+        <cluster id="2">0.039698472240889765</cluster>
+        <cluster id="3">0.8156416958706642</cluster>
+    </member>
+    <member id="511">
+        <cluster id="0">0.21899933825476436</cluster>
+        <cluster id="1">0.0660184659974629</cluster>
+        <cluster id="2">0.0695799901303192</cluster>
+        <cluster id="3">0.6454022056174534</cluster>
+    </member>
+</Clusters>

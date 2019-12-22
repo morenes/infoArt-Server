@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Clustering xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.um.es/as"
+	xsi:schemaLocation="http://www.um.es/as cluster.xsd">
+	<place>3</place>
+	<segmentos>10</segmentos>
+	<var_seg>4</var_seg>
+	<clusters>4</clusters>
+	<factor_tiempo>5</factor_tiempo>
+	<factor_audio>30</factor_audio>
+	<pilas>
+		<ruta>50</ruta>
+		<sensibilidad>0.4</sensibilidad>
+	</pilas>
+	<representante>
+		<id>49</id>
+		<frase>Si quieres acceder a los audios pulsa en visita interactiva</frase>
+	</representante>
+	<representante>
+		<id>51</id>
+		<frase>En nuestro canal de Youtube puedes encontrar información ampliada sobre estas obras</frase>
+	</representante>
+	<representante>
+		<id>53</id>
+		<frase>¿Tienes prisa? Puedo sugerirte las obras más destacadas</frase>
+	</representante>
+	<representante>
+		<id>54</id>
+		<frase>Te veo perdido, si quieres puedes consultar el mapa</frase>
+	</representante>
+	
+</Clustering>

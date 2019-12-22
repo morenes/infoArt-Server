@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.um.es/as" xmlns="http://www.um.es/as"
+	elementFormDefault="qualified">
+	
+	<xs:element name="mapaXML">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:long"/>
+				<xs:element name="place" type="xs:int"/>
+				<xs:element name="width" type="xs:int"/>
+				<xs:element name="height" type="xs:int"/>
+				<xs:element name="NEAR" type="xs:int"/>
+				<xs:element name="MOVE" type="xs:int"/>
+				<xs:element name="MOVE2" type="xs:int"/>
+				<xs:element name="FACTOR" type="xs:double"/>
+				<xs:element name="MIN_BEA" type="xs:int"/>
+				<xs:element name="CONF_ALG" type="xs:int"/>
+				<xs:element name="ajuste" type="tipoAjuste"
+					minOccurs="0" maxOccurs="unbounded" />
+				<xs:element name="beacon" type="tipoBeacon"
+					maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="tipoBeacon">
+		<xs:sequence>
+			<xs:element name="id" type="xs:unsignedByte"/>
+			<xs:element name="x" type="xs:int"/>
+			<xs:element name="y" type="xs:int"/>
+			<xs:element name="coef" type="tipoCoef"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="tipoAjuste">
+		<xs:sequence>
+			<xs:element name="id" type="xs:int"/>
+			<xs:element name="x" type="xs:int"/>
+			<xs:element name="y" type="xs:int"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="tipoCoef">
+		<xs:sequence>
+			<xs:element name="c" type="xs:float"
+			minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+</xs:schema>
